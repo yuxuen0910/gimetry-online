@@ -1,0 +1,11 @@
+# Robots.txt for gimetry.online
+# Allow all crawlers
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Sitemap location
+Sitemap: https://wgimetry.online/Sitemap.xml

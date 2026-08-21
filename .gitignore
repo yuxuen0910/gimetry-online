@@ -1,0 +1,13 @@
+.vercel
+.node_modules
+node_modules
+.DS_Store
+Thumbs.db
+*.log
+.claude
+.cursor
+agent-transcripts
+*.tmp
+.env
+.env.*
+!.env.example
