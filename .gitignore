@@ -11,3 +11,5 @@ agent-transcripts
 .env
 .env.*
 !.env.example
+
+.vercel
