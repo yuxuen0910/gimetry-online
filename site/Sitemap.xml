@@ -46,11 +46,6 @@
                     <changefreq>weekly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url><url>
-                    <loc>https://gimetry.online/work/trends-with-friends</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
                     <loc>https://gimetry.online/work/stocktwits</loc>
                     <priority>0.6</priority>
                     <changefreq>monthly</changefreq>
@@ -81,16 +76,6 @@
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url><url>
-                    <loc>https://gimetry.online/work/fresh-nutrition</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
-                    <loc>https://gimetry.online/work/zoefull</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
                     <loc>https://gimetry.online/work/arnolds-pump-club</loc>
                     <priority>0.6</priority>
                     <changefreq>monthly</changefreq>
@@ -111,27 +96,7 @@
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url><url>
-                    <loc>https://gimetry.online/work/ora-organic</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
-                    <loc>https://gimetry.online/work/tools-for-change</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
-                    <loc>https://gimetry.online/work/medallion-equine</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
                     <loc>https://gimetry.online/work/pen-name</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
-                    <loc>https://gimetry.online/work/attribute</loc>
                     <priority>0.6</priority>
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
@@ -151,22 +116,12 @@
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url><url>
-                    <loc>https://gimetry.online/work/monfort-capital</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
                     <loc>https://gimetry.online/work/panaji</loc>
                     <priority>0.6</priority>
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url><url>
-                    <loc>https://gimetry.online/work/midlife-male</loc>
-                    <priority>0.6</priority>
-                    <changefreq>monthly</changefreq>
-                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
-                  </url><url>
-                    <loc>https://gimetry.online/work/salt-spring-national-art-prize</loc>
+                    <loc>https://gimetry.online/work/fresh-nutrition</loc>
                     <priority>0.6</priority>
                     <changefreq>monthly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
@@ -211,5 +166,10 @@
                     <changefreq>weekly</changefreq>
                     <lastmod>2026-07-20T13:09:00.196Z</lastmod>
                   </url>
-  </urlset>
+  <url>
+                    <loc>https://gimetry.online/work/zoefull</loc>
+                    <priority>0.6</priority>
+                    <changefreq>monthly</changefreq>
+                    <lastmod>2026-07-20T13:09:00.196Z</lastmod>
+                  </url></urlset>
   
