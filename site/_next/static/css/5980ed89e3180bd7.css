@@ -31,4 +31,4 @@ div:has(>svg[viewBox="0 0 1000 191"])+div{display:none}
 section.mt-\[192px\].pb-\[96px\]:has(>h2.caps-s-desktop){display:none}
 /* homepage: testimonial band hidden until real client quotes exist */
 section:has(>div>div>h3):has(blockquote),section.py-\[96px\].text-white.mt-\[96px\]{display:none}
-.bg-cursorBrand{background-color:#E4FF00}.text-cursorBrand{color:#E4FF00}
+.bg-cursorBrand{background-color:#E4FF00}.text-cursorBrand{color:#E4FF00}.bg-404Brand{background-color:#E4FF00!important}
