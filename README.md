@@ -1,6 +1,6 @@
 # Gimetry Studio
 
-Personal portfolio site for [gimetry.online](https://gimetry.online) — 3D animation, motion, and web design by Rain (Johor Bahru, Malaysia).
+Personal portfolio site for [gimetry.online](https://gimetry.online) — an independent digital design and development studio based in Malaysia.
 
 ## Local run
 
